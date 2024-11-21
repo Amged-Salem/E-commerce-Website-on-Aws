@@ -3,11 +3,11 @@
 
 ![E-commerce Architecture](arch.jpg)
 
-![E-commerce Website](E-commerce.jpg)
+![E-commerce Website](E-commerce.png)
 
-![Fetch Orders](Fetchorders.jpg)
+![Fetch Orders](Fetchorders.png)
 
-![MariaDB Setup](maria.jpg)
+![MariaDB Setup](maria.png)
 
 
 ## 1. Launch EC2 Instances
