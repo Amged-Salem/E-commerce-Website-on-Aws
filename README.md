@@ -5,7 +5,7 @@
 
 ![E-commerce Website](E-commerce.png)
 
-![Fetch Orders](Fatchorders.png)
+![Fetch Orders](Facthorders.png)
 
 ![MariaDB Setup](maria.png)
 
